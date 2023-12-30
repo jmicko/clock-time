@@ -4,7 +4,7 @@ This is a killer app the will change color as time passes. If you ever wanted to
 
 ## How it works
 
-It sets the background color to the rgb value of the current time. Hours = Red, Minutes = Green, Seconds = Blue. The equation with hours, for example, is currentHour / 24 * 255. This way you hit all the colors over the course of a day.
+It sets the background color to the rgb value of the current time. Hours = Red, Minutes = Green, Seconds = Blue. The equation with hours, for example, is currentHour / 24 * 255. This way you hit all the colors over the course of a day. It also tilts back and forth by 100 degrees based on the milliseconds.
 
 ## How to use
 
